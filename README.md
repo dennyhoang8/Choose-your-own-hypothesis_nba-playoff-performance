@@ -12,11 +12,11 @@ TBD
 TBD
 
 ## 3. Data Description
+The data will come from Basketball Reference NBA player game logs. I will focus on the most recent five completed seasons, from 2021 through 2025, so the data reflects more current playing conditions and keeps the comparison consistent. Each row will represent one player’s performance in a single game. I will use game logs for Anthony Edwards, LeBron James, Jayson Tatum, and Kevin Durant, and compare regular season games against playoff games.
 
-TBD
+I will filter out rows where a player was marked as inactive because those rows do not represent games actually played.
 
 ## 4. Methods
-
 TBD
 
 ## 5. Results
