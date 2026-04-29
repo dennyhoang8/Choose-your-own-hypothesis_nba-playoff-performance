@@ -1,19 +1,36 @@
 # NBA Playoff Performance Analysis
 
-## Project Overview
-This project analyzes whether NBA star players perform worse in the playoffs compared to the regular season.
+## 1. Research Question
+For this project, I am looking at whether NBA star players perform worse in the playoffs compared to the regular season. I am focusing on Anthony Edwards, LeBron James, Jayson Tatum, and Kevin Durant. This matters because people always talk about playoff pressure, tougher defense, and higher stakes, so I want to see if that actually shows up in the stats.
 
-## Hypothesis
-Star players will have lower field goal percentages in playoff games than in regular season games.
+## 2. Hypothesis
 
-## Data Source
-NBA game log data from sources such as Kaggle or Basketball Reference.
+**Null Hypothesis (H₀):**  
+TBD
 
-## Methods
-- Permutation testing
-- Bootstrapping
+**Alternative Hypothesis (H₁):**  
+TBD
 
-## Structure
-- analysis.ipynb (main notebook)
-- data/ (data files or links)
-- results/ (optional outputs)
+## 3. Data Description
+
+TBD
+
+## 4. Methods
+
+TBD
+
+## 5. Results
+
+TBD
+
+## 6. Uncertainty Estimation
+
+TBD
+
+## 7. Limitations
+
+Some possible limitations are that playoff games are fewer than regular season games, and player performance can be affected by injuries, matchups, minutes played, team role, and defensive attention. Field goal percentage is useful, but it does not capture every part of a player’s performance.
+
+## 8. References
+
+TBD
