@@ -1,0 +1,92 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\f0\fs24 \cf0 Rk,Gcar,Gtm,Date,Team,,Opp,Result,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-\
+1,827,1,2022-10-18,GSW,,LAL,W 123-109,*,32:48,10,22,.455,4,13,.308,6,9,.667,.545,9,9,1.000,1,5,6,7,4,1,4,1,33,29.0,20\
+2,828,2,2022-10-21,GSW,,DEN,L 123-128,*,35:55,10,22,.455,5,11,.455,5,11,.455,.568,9,9,1.000,1,4,5,4,0,0,3,2,34,23.5,9\
+3,829,3,2022-10-23,GSW,,SAC,W 130-125,*,31:21,11,22,.500,7,12,.583,4,10,.400,.659,4,4,1.000,0,5,5,2,1,0,2,3,33,22.7,19\
+4,830,4,2022-10-25,GSW,@,PHO,L 105-134,*,29:55,7,17,.412,4,9,.444,3,8,.375,.529,3,5,.600,0,7,7,8,1,0,1,1,21,18.4,-17\
+5,831,5,2022-10-27,GSW,,MIA,W 123-110,*,36:57,13,22,.591,7,14,.500,6,8,.750,.750,0,0,,1,6,7,9,1,0,3,0,33,29.6,13\
+6,832,6,2022-10-29,GSW,@,CHO,L 113-120 (OT),*,38:54,10,22,.455,3,13,.231,7,9,.778,.523,8,8,1.000,0,11,11,6,1,0,2,5,31,24.1,-6\
+7,833,7,2022-10-30,GSW,@,DET,L 114-128,*,34:58,10,24,.417,4,14,.286,6,10,.600,.500,8,9,.889,0,6,6,3,2,0,1,1,32,23.3,-12\
+8,834,8,2022-11-01,GSW,@,MIA,L 109-116,*,34:30,7,14,.500,4,10,.400,3,4,.750,.643,5,5,1.000,4,9,13,13,1,0,5,3,23,25.4,3\
+9,835,9,2022-11-03,GSW,@,ORL,L 129-130,*,38:20,13,22,.591,8,15,.533,5,7,.714,.773,5,5,1.000,1,2,3,9,0,0,5,3,39,30.2,4\
+9,,10,2022-11-04,GSW,@,NOP,L 105-114,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+10,836,11,2022-11-07,GSW,,SAC,W 116-113,*,37:43,17,24,.708,7,12,.583,10,12,.833,.854,6,7,.857,0,8,8,8,0,0,0,2,47,43.8,20\
+11,837,12,2022-11-11,GSW,,CLE,W 106-101,*,34:00,15,23,.652,6,11,.545,9,12,.750,.783,4,6,.667,0,4,4,5,1,0,2,4,40,31.2,7\
+12,838,13,2022-11-13,GSW,@,SAC,L 115-122,*,36:51,9,17,.529,3,9,.333,6,8,.750,.618,6,6,1.000,0,6,6,4,1,0,4,0,27,20.3,0\
+13,839,14,2022-11-14,GSW,,SAS,W 132-95,*,27:01,5,11,.455,3,7,.429,2,4,.500,.591,3,3,1.000,1,4,5,5,1,0,1,1,16,15.3,17\
+14,840,15,2022-11-16,GSW,@,PHO,L 119-130,*,36:14,17,28,.607,7,11,.636,10,17,.588,.732,9,9,1.000,0,9,9,6,0,1,3,2,50,41.0,-14\
+15,841,16,2022-11-18,GSW,,NYK,W 111-101,*,33:50,9,19,.474,5,13,.385,4,6,.667,.605,1,3,.333,0,6,6,10,2,0,5,2,24,18.5,18\
+16,842,17,2022-11-20,GSW,@,HOU,W 127-120,*,36:59,11,20,.550,7,14,.500,4,6,.667,.725,4,5,.800,0,6,6,15,3,2,1,3,33,37.5,22\
+16,,18,2022-11-21,GSW,@,NOP,L 83-128,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+17,843,19,2022-11-23,GSW,,LAC,W 124-107,*,31:41,9,20,.450,4,10,.400,5,10,.500,.550,0,0,,1,5,6,9,0,0,1,0,22,19.1,18\
+18,844,20,2022-11-25,GSW,,UTA,W 129-118,*,35:43,13,23,.565,6,13,.462,7,10,.700,.696,1,1,1.000,0,5,5,4,2,0,5,4,33,21.8,19\
+19,845,21,2022-11-27,GSW,@,MIN,W 137-114,*,32:37,7,17,.412,4,11,.364,3,6,.500,.529,7,7,1.000,1,10,11,8,1,0,7,1,25,18.8,22\
+20,846,22,2022-11-29,GSW,@,DAL,L 113-116,*,37:48,11,24,.458,5,14,.357,6,10,.600,.563,5,6,.833,1,4,5,5,0,0,4,4,32,19.0,-12\
+21,847,23,2022-12-02,GSW,,CHI,W 119-111,*,33:23,6,16,.375,4,8,.500,2,8,.250,.500,3,3,1.000,0,11,11,6,0,1,6,5,19,10.4,-1\
+22,848,24,2022-12-03,GSW,,HOU,W 120-101,*,34:32,10,21,.476,8,17,.471,2,4,.500,.667,2,3,.667,0,3,3,10,1,1,4,0,30,24.5,19\
+23,849,25,2022-12-05,GSW,,IND,L 104-112,*,37:42,3,17,.176,2,10,.200,1,7,.143,.235,4,4,1.000,0,4,4,6,1,0,3,2,12,3.9,-17\
+23,,26,2022-12-07,GSW,@,UTA,L 123-124,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+24,850,27,2022-12-10,GSW,,BOS,W 123-107,*,37:27,12,21,.571,6,11,.545,6,10,.600,.714,2,2,1.000,1,5,6,7,0,1,4,3,32,24.7,20\
+25,851,28,2022-12-13,GSW,@,MIL,L 111-128,*,27:19,6,17,.353,3,10,.300,3,7,.429,.441,5,5,1.000,2,4,6,1,1,1,2,0,20,13.5,-20\
+26,852,29,2022-12-14,GSW,@,IND,L 119-125,*,29:33,11,19,.579,5,10,.500,6,9,.667,.711,11,11,1.000,1,6,7,7,2,1,3,2,38,35.4,-6\
+26,,30,2022-12-16,GSW,@,PHI,L 106-118,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+26,,31,2022-12-18,GSW,@,TOR,W 126-110,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+26,,32,2022-12-20,GSW,@,NYK,L 94-132,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+26,,33,2022-12-21,GSW,@,BRK,L 113-143,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+26,,34,2022-12-25,GSW,,MEM,W 123-109,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+26,,35,2022-12-27,GSW,,CHO,W 110-105,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+26,,36,2022-12-28,GSW,,UTA,W 112-107,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+26,,37,2022-12-30,GSW,,POR,W 118-112,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+26,,38,2023-01-02,GSW,,ATL,W 143-141 (2OT),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+26,,39,2023-01-04,GSW,,DET,L 119-122,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+26,,40,2023-01-07,GSW,,ORL,L 101-115,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+27,853,41,2023-01-10,GSW,,PHO,L 113-125,*,31:16,8,22,.364,5,15,.333,3,7,.429,.477,3,4,.750,1,0,1,3,1,0,1,4,24,12.6,-19\
+28,854,42,2023-01-13,GSW,@,SAS,W 144-113,*,23:07,6,12,.500,2,7,.286,4,5,.800,.583,1,1,1.000,0,4,4,3,0,1,0,3,15,11.8,12\
+29,855,43,2023-01-15,GSW,@,CHI,L 118-132,*,34:29,8,15,.533,3,10,.300,5,5,1.000,.633,1,2,.500,0,10,10,4,0,1,8,2,20,10.0,-9\
+30,856,44,2023-01-16,GSW,@,WAS,W 127-118,*,37:50,12,28,.429,6,15,.400,6,13,.462,.536,11,12,.917,1,6,7,2,0,0,4,1,41,25.3,14\
+31,857,45,2023-01-19,GSW,@,BOS,L 118-121 (OT),*,43:05,9,25,.360,6,18,.333,3,7,.429,.480,5,5,1.000,0,4,4,7,3,2,3,1,29,22.2,9\
+31,,46,2023-01-20,GSW,@,CLE,W 120-114,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+32,858,47,2023-01-22,GSW,,BRK,L 116-120,*,37:35,7,16,.438,4,8,.500,3,8,.375,.563,8,8,1.000,1,5,6,7,1,0,5,2,26,19.9,-8\
+33,859,48,2023-01-25,GSW,,MEM,W 122-120,*,34:47,10,19,.526,4,8,.500,6,11,.545,.632,10,11,.909,0,2,2,3,2,0,3,3,34,24.8,-3\
+34,860,49,2023-01-27,GSW,,TOR,W 129-117,*,38:47,13,21,.619,4,8,.500,9,13,.692,.714,5,5,1.000,0,7,7,11,2,0,3,1,35,33.9,13\
+35,861,50,2023-01-30,GSW,@,OKC,W 128-120,*,36:36,12,20,.600,8,14,.571,4,6,.667,.800,6,6,1.000,1,7,8,12,0,1,4,0,38,36.7,17\
+36,862,51,2023-02-01,GSW,@,MIN,L 114-119 (OT),*,42:22,8,21,.381,5,12,.417,3,9,.333,.500,8,9,.889,0,10,10,3,1,1,4,5,29,17.9,-5\
+37,863,52,2023-02-02,GSW,@,DEN,L 117-134,*,33:11,10,17,.588,5,10,.500,5,7,.714,.735,3,3,1.000,2,3,5,5,0,0,6,4,28,18.3,-16\
+38,864,53,2023-02-04,GSW,,DAL,W 119-113,*,25:33,7,11,.636,2,6,.333,5,5,1.000,.727,5,5,1.000,0,6,6,7,0,0,0,2,21,22.0,14\
+38,,54,2023-02-06,GSW,,OKC,W 141-114,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+38,,55,2023-02-08,GSW,@,POR,L 122-125,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+38,,56,2023-02-11,GSW,,LAL,L 103-109,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+38,,57,2023-02-13,GSW,,WAS,W 135-126,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+38,,58,2023-02-14,GSW,@,LAC,L 124-134,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+38,,59,2023-02-23,GSW,@,LAL,L 111-124,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+38,,60,2023-02-24,GSW,,HOU,W 116-101,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+38,,61,2023-02-26,GSW,,MIN,W 109-104,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+38,,62,2023-02-28,GSW,,POR,W 123-105,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+38,,63,2023-03-02,GSW,,LAC,W 115-91,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+38,,64,2023-03-03,GSW,,NOP,W 108-99,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive\
+39,865,65,2023-03-05,GSW,@,LAL,L 105-113,*,32:02,8,20,.400,5,13,.385,3,7,.429,.525,6,6,1.000,0,2,2,6,1,0,2,3,27,18.8,-12\
+40,866,66,2023-03-07,GSW,@,OKC,L 128-137,*,35:28,14,23,.609,10,16,.625,4,7,.571,.826,2,2,1.000,1,5,6,7,0,0,6,4,40,29.0,-2\
+41,867,67,2023-03-09,GSW,@,MEM,L 110-131,*,34:24,10,19,.526,4,8,.500,6,11,.545,.632,5,6,.833,3,4,7,4,1,0,4,3,29,21.2,2\
+42,868,68,2023-03-11,GSW,,MIL,W 125-116 (OT),*,43:24,13,27,.481,6,15,.400,7,12,.583,.593,4,4,1.000,1,5,6,4,2,1,5,1,36,24.6,10\
+43,869,69,2023-03-13,GSW,,PHO,W 123-112,*,33:28,7,13,.538,4,6,.667,3,7,.429,.692,5,6,.833,2,5,7,5,0,0,5,4,23,16.1,14\
+44,870,70,2023-03-15,GSW,@,LAC,L 126-134,*,38:32,20,28,.714,8,14,.571,12,14,.857,.857,2,4,.500,0,2,2,6,2,0,2,1,50,42.0,-11\
+45,871,71,2023-03-17,GSW,@,ATL,L 119-127,*,37:18,12,27,.444,4,13,.308,8,14,.571,.519,3,3,1.000,2,4,6,5,0,0,6,2,31,16.2,-1\
+46,872,72,2023-03-18,GSW,@,MEM,L 119-133,*,30:03,5,15,.333,3,8,.375,2,7,.286,.433,3,4,.750,1,7,8,5,0,0,1,1,16,12.0,-10\
+47,873,73,2023-03-20,GSW,@,HOU,W 121-108,*,36:06,10,23,.435,5,15,.333,5,8,.625,.543,5,5,1.000,1,6,7,5,2,1,4,3,30,21.4,5\
+48,874,74,2023-03-22,GSW,@,DAL,W 127-125,*,34:42,9,18,.500,2,8,.250,7,10,.700,.556,0,0,,1,4,5,13,0,0,3,2,20,18.2,10\
+49,875,75,2023-03-24,GSW,,PHI,W 120-112,*,38:26,10,18,.556,2,7,.286,8,11,.727,.611,7,8,.875,0,8,8,3,0,0,2,2,29,21.7,20\
+50,876,76,2023-03-26,GSW,,MIN,L 96-99,*,36:12,8,23,.348,4,13,.308,4,10,.400,.435,0,0,,0,6,6,9,1,0,3,3,20,12.0,2\
+51,877,77,2023-03-28,GSW,,NOP,W 120-109,*,36:57,14,25,.560,8,15,.533,6,10,.600,.720,3,4,.750,2,6,8,8,3,0,4,0,39,34.5,12\
+52,878,78,2023-03-31,GSW,,SAS,W 130-115,*,32:43,11,21,.524,7,11,.636,4,10,.400,.690,4,4,1.000,1,1,2,5,0,0,1,1,33,25.8,-3\
+53,879,79,2023-04-02,GSW,@,DEN,L 110-112,*,36:53,8,28,.286,2,14,.143,6,14,.429,.321,3,3,1.000,1,2,3,4,0,2,3,1,21,6.7,-5\
+54,880,80,2023-04-04,GSW,,OKC,W 136-125,*,36:46,11,25,.440,6,13,.462,5,12,.417,.560,6,6,1.000,0,5,5,6,1,0,0,3,34,26.4,14\
+55,881,81,2023-04-07,GSW,@,SAC,W 119-97,*,32:41,8,14,.571,3,7,.429,5,7,.714,.679,6,7,.857,1,6,7,6,2,1,5,1,25,22.0,33\
+56,882,82,2023-04-09,GSW,@,POR,W 157-101,*,22:27,9,15,.600,5,10,.500,4,5,.800,.767,3,3,1.000,0,5,5,7,0,0,1,0,26,24.5,26\
+,,,,,,,30-26,56,1942,559,1133,.493,273,639,.427,286,494,.579,.614,257,281,.915,39,302,341,352,52,20,179,117,1648,22.7,268\
+}

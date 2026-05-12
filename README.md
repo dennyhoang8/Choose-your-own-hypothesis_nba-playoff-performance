@@ -1,63 +1,72 @@
-NBA Playoff Performance Analysis
-1. Research Question
+# NBA Playoff Performance Analysis
 
-This project analyzes whether NBA star players perform worse in the playoffs compared to the regular season. The analysis focuses on Anthony Edwards, LeBron James, Jayson Tatum, and Kevin Durant. This question matters because playoff basketball is often associated with higher pressure, tougher defense, and stronger competition, and the goal is to determine whether those factors actually impact shooting performance.
+## 1. Research Question
 
-2. Hypothesis
+This project analyzes whether NBA star players perform worse in the playoffs compared to the regular season. The analysis focuses on Anthony Edwards, LeBron James, Jayson Tatum, Kevin Durant, Stephen Curry, Luka Doncic, Nikola Jokic, and Giannis Antetokounmpo.
 
-Null Hypothesis (H₀):
+This question matters because playoff basketball is often associated with higher pressure, tougher defense, and stronger competition. The goal is to determine whether those factors show up in shooting performance, specifically field goal percentage.
+
+## 2. Hypothesis
+
+**Null Hypothesis (H₀):**  
 There is no difference in field goal percentage between playoff games and regular season games.
 
-Alternative Hypothesis (H₁):
+**Alternative Hypothesis (H₁):**  
 NBA star players have a lower field goal percentage in playoff games compared to regular season games.
 
-3. Data Description
+## 3. Data Description
 
 The data comes from Basketball Reference NBA player game logs. The analysis focuses on the most recent five completed seasons, from 2021 through 2025, to reflect current playing conditions and maintain consistency.
 
-Each row represents one player’s performance in a single game. The dataset includes game logs for Anthony Edwards, LeBron James, Jayson Tatum, and Kevin Durant, and compares regular season games against playoff games.
+Each row represents one player’s performance in a single game. Regular season and playoff game logs were combined into one dataset.
 
-Rows where a player was marked as inactive, did not dress, or did not play were removed because they do not represent actual game performances.
+Rows where a player was marked as inactive, did not dress, or did not play were removed because those rows do not represent actual game performances.
 
-4. Methods
+After cleaning, the dataset includes 2702 regular season games and 989 playoff games.
+
+## 4. Methods
 
 The analysis compares field goal percentage (FG%) between playoff and regular season games.
 
 The test statistic is defined as:
 
-Playoff FG% − Regular Season FG%
+**Playoff FG% − Regular Season FG%**
 
-A permutation test is used to determine whether the observed difference could have occurred by random chance. This is done by randomly shuffling FG% values and recomputing the difference many times to create a null distribution.
+A negative value means playoff FG% is lower than regular season FG%.
 
-Bootstrapping is used to estimate uncertainty by repeatedly resampling the data with replacement. Confidence intervals are calculated for both the mean and the median FG% difference. The median is included because the Central Limit Theorem does not apply to it in the same way as the mean.
+A permutation test was used to determine whether the observed difference could have occurred by random chance. This was done by randomly shuffling FG% values and recomputing the mean difference many times to create a null distribution.
 
-5. Results
+Bootstrapping was also used to estimate uncertainty around the FG% difference by repeatedly resampling the data with replacement and calculating confidence intervals.
 
-The observed difference in FG% is approximately +0.006, indicating that playoff FG% is slightly higher than regular season FG%.
+## 5. Results
 
-The permutation test produced a p-value of approximately 0.165, suggesting that the observed difference could reasonably occur by random chance.
+The average regular season FG% was approximately 0.503, while the average playoff FG% was approximately 0.488.
 
-6. Uncertainty Estimation
+The observed difference was approximately -0.016, meaning playoff FG% was about 1.6 percentage points lower than regular season FG%.
 
-The 95% bootstrap confidence interval for the mean FG% difference is approximately:
+The permutation test produced a p-value of approximately 0.001. This means the observed decrease was unlikely to occur purely by random chance under the null hypothesis.
 
-[-0.0059, 0.0166]
+## 6. Uncertainty Estimation
 
-The 95% bootstrap confidence interval for the median FG% difference is approximately:
+The 95% bootstrap confidence interval for the mean FG% difference was approximately:
 
-[-0.0060, 0.0261]
+**[-0.0246, -0.0078]**
 
-Both intervals include 0, indicating that a true difference of zero is plausible and that there is no strong evidence of a meaningful difference.
+Because this interval is entirely below 0, it supports the conclusion that playoff FG% is likely lower than regular season FG% in this dataset.
 
-7. Limitations
+## 7. Limitations
 
-This analysis is limited to four players and five seasons, which may not represent all NBA players.
+This analysis is limited to eight NBA star players and five recent seasons, so the results may not represent all NBA players.
 
-Playoff sample sizes are smaller than regular season samples, which may increase variability.
+Playoff sample sizes are smaller than regular season sample sizes, which may affect variability.
 
-Other factors such as defensive matchups, injuries, minutes played, and team role are not accounted for. Additionally, field goal percentage does not capture all aspects of player performance.
+Other factors such as defensive matchups, injuries, minutes played, team role, opponent strength, and shot difficulty were not directly controlled for. Field goal percentage is useful, but it does not capture every part of player performance.
 
-8. References
-Basketball Reference (https://www.basketball-reference.com/
-)
-Python libraries: pandas, numpy, matplotlib
+## 8. Conclusion
+
+Overall, the results suggest that NBA star players in this dataset shot slightly worse in the playoffs compared to the regular season. Although the difference was not extremely large, both the permutation test and bootstrap confidence interval suggest that the decrease is statistically meaningful rather than purely random variation.
+
+## 9. References
+
+- Basketball Reference: https://www.basketball-reference.com/
+- Python libraries: pandas, numpy, matplotlib
