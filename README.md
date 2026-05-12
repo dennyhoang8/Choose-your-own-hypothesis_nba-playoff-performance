@@ -20,6 +20,8 @@ The data comes from Basketball Reference NBA player game logs. The analysis focu
 
 Each row represents one player’s performance in a single game. Regular season and playoff game logs were combined into one dataset.
 
+Key variables include player name, season, game type, minutes played, field goals made, field goals attempted, and field goal percentage.
+
 Rows where a player was marked as inactive, did not dress, or did not play were removed because those rows do not represent actual game performances.
 
 After cleaning, the dataset includes 2702 regular season games and 989 playoff games.
@@ -34,15 +36,19 @@ The test statistic is defined as:
 
 A negative value means playoff FG% is lower than regular season FG%.
 
-A permutation test was used to determine whether the observed difference could have occurred by random chance. This was done by randomly shuffling FG% values and recomputing the mean difference many times to create a null distribution.
+A permutation test was used to determine whether the observed difference could have occurred by random chance. This was done by randomly shuffling FG% values and recomputing the mean difference many times to create a null distribution. The permutation test used 1000 simulations.
 
-Bootstrapping was also used to estimate uncertainty around the FG% difference by repeatedly resampling the data with replacement and calculating confidence intervals.
+Bootstrapping was also used to estimate uncertainty around the FG% difference by repeatedly resampling the data with replacement and calculating confidence intervals. The bootstrap analysis used 1000 resamples.
+
+Bootstrap confidence intervals were calculated for both the mean FG% difference and the median FG% difference. The median was included because the Central Limit Theorem does not apply to medians in the same direct way that it applies to means.
 
 ## 5. Results
 
 The average regular season FG% was approximately 0.503, while the average playoff FG% was approximately 0.488.
 
 The observed difference was approximately -0.016, meaning playoff FG% was about 1.6 percentage points lower than regular season FG%.
+
+The permutation distribution was centered near 0 under the null hypothesis, while the observed difference fell far into the left tail of the distribution.
 
 The permutation test produced a p-value of approximately 0.001. This means the observed decrease was unlikely to occur purely by random chance under the null hypothesis.
 
@@ -53,6 +59,12 @@ The 95% bootstrap confidence interval for the mean FG% difference was approximat
 **[-0.0247, -0.0074]**
 
 Because this interval is entirely below 0, it supports the conclusion that playoff FG% is likely lower than regular season FG% in this dataset.
+
+The 95% bootstrap confidence interval for the median FG% difference was approximately:
+
+**[-0.026, 0.000]**
+
+The median interval is included as a non-CLT uncertainty metric. Bootstrapping is useful here because the median does not rely on the same normal-based assumptions as the mean.
 
 ## 7. Limitations
 
@@ -68,8 +80,10 @@ Overall, the results suggest that NBA star players in this dataset shot slightly
 
 ## 9. References
 
-Game log data was collected from Basketball Reference player game logs:
+Game log data was collected from Basketball Reference player game logs:  
 https://www.basketball-reference.com/
 
-- Basketball Reference: https://www.basketball-reference.com/
-- Python libraries: pandas, numpy, matplotlib
+Python libraries used:
+- pandas
+- numpy
+- matplotlib
