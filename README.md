@@ -50,7 +50,7 @@ The permutation test produced a p-value of approximately 0.001. This means the o
 
 The 95% bootstrap confidence interval for the mean FG% difference was approximately:
 
-**[-0.0246, -0.0078]**
+**[-0.0247, -0.0074]**
 
 Because this interval is entirely below 0, it supports the conclusion that playoff FG% is likely lower than regular season FG% in this dataset.
 
