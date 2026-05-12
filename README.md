@@ -68,5 +68,8 @@ Overall, the results suggest that NBA star players in this dataset shot slightly
 
 ## 9. References
 
+Game log data was collected from Basketball Reference player game logs:
+https://www.basketball-reference.com/
+
 - Basketball Reference: https://www.basketball-reference.com/
 - Python libraries: pandas, numpy, matplotlib
